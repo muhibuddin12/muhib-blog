@@ -12,4 +12,4 @@ backtick.fences('for blocks')
 ```
 
 
-![Ape nii](/public/preview.jpg "title")
+![Ape nii](../../../public/preview.jpg "title")
